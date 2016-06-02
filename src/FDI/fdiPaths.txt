@@ -1,0 +1,328 @@
+Input	Output	Path	Weight	Distance
+Variant OnDeck	Ensembl_ANNOVAR annot	Variant OnDeck->Ensembl_ANNOVAR annot	1	
+Variant OnDeck	Ensembl_Annot Feat	Variant OnDeck->Ensembl_Annot Feat	1	
+Variant OnDeck	Ensembl_Gene	Variant OnDeck->Ensembl_Gene	1	
+Variant OnDeck	ANNOVAR annot	Variant OnDeck->ANNOVAR annot	1	
+Variant OnDeck	Annot Feat	Variant OnDeck->Annot Feat	1	
+Variant OnDeck	Gene	Variant OnDeck->Gene	1	
+Variant OnDeck	Gene Ori	Variant OnDeck->Gene Ori	1	
+Variant OnDeck	ProtPos	Variant OnDeck->ProtPos	1	
+Variant OnDeck	siftv63	Variant OnDeck->siftv63	1	
+Variant OnDeck	Provean_v1_1	Variant OnDeck->Provean_v1_1	1	
+Variant OnDeck	ljb_pp2	Variant OnDeck->ljb_pp2	1	
+Variant OnDeck	omimGene	Variant OnDeck->omimGene	1	
+Variant OnDeck	snp138	Variant OnDeck->snp138	1	
+Variant OnDeck	ljb26_mt	Variant OnDeck->ljb26_mt	1	
+Variant OnDeck	hapmap_3_3	Variant OnDeck->hapmap_3_3	1	
+Variant OnDeck	gwasCatalog	Variant OnDeck->gwasCatalog	1	
+Variant OnDeck	1000gALL_sites_2012_04	Variant OnDeck->1000gALL_sites_2012_04	1	
+Variant OnDeck	1000gALL_sites_2014_09	Variant OnDeck->1000gALL_sites_2014_09	1	
+Variant OnDeck	tassdb	Variant OnDeck->tassdb	1	
+Variant OnDeck	cg69	Variant OnDeck->cg69	1	
+Variant OnDeck	rptMask	Variant OnDeck->rptMask	1	
+Variant OnDeck	genomicSuperDups	Variant OnDeck->genomicSuperDups	1	
+Variant OnDeck	trf	Variant OnDeck->trf	1	
+Variant OnDeck	prosite_domains	Variant OnDeck->prosite_domains	1	
+Variant OnDeck	nonB	Variant OnDeck->nonB	1	
+Variant OnDeck	SomamiR	Variant OnDeck->SomamiR	1	
+Variant OnDeck	lncipedia	Variant OnDeck->lncipedia	1	
+Variant OnDeck	VISTA_enhancer_expr_data	Variant OnDeck->VISTA_enhancer_expr_data	1	
+Variant OnDeck	wgRna	Variant OnDeck->wgRna	1	
+Variant OnDeck	tfbsConsSites	Variant OnDeck->tfbsConsSites	1	
+Variant OnDeck	lincRNA	Variant OnDeck->lincRNA	1	
+Variant OnDeck	HMDD	Variant OnDeck->HMDD	1	
+Variant OnDeck	microPIR_targets	Variant OnDeck->microPIR_targets	1	
+Variant OnDeck	targetScanS	Variant OnDeck->targetScanS	1	
+Variant OnDeck	ESEFinder	Variant OnDeck->ESEFinder	1	
+Variant OnDeck	VISTA_enhancer	Variant OnDeck->VISTA_enhancer	1	
+Variant OnDeck	alt_splice	Variant OnDeck->alt_splice	1	
+Variant OnDeck	cytoBand	Variant OnDeck->cytoBand	1	
+Variant OnDeck	dgvMerged	Variant OnDeck->dgvMerged	1	
+Variant OnDeck	cosmicdbv68	Variant OnDeck->cosmicdbv68	1	
+Variant OnDeck	cosmic70	Variant OnDeck->cosmic70	1	
+Variant OnDeck	SomamiR_targets	Variant OnDeck->SomamiR_targets	1	
+Variant OnDeck	ljb26_pp2hvar	Variant OnDeck->ljb26_pp2hvar	1	
+Variant OnDeck	ljb26_vest	Variant OnDeck->ljb26_vest	1	
+Variant OnDeck	ljb26_cadd	Variant OnDeck->ljb26_cadd	1	
+Variant OnDeck	nci60	Variant OnDeck->nci60	1	
+Variant OnDeck	ljb26_pp2hdiv	Variant OnDeck->ljb26_pp2hdiv	1	
+Variant OnDeck	PTM	Variant OnDeck->PTM	1	
+Variant OnDeck	ljb26_lrt	Variant OnDeck->ljb26_lrt	1	
+Variant OnDeck	ljb26_phylop	Variant OnDeck->ljb26_phylop	1	
+Variant OnDeck	ljb26_ma	Variant OnDeck->ljb26_ma	1	
+Variant OnDeck	ljb26_fathmm	Variant OnDeck->ljb26_fathmm	1	
+Variant OnDeck	ljb26_siphy	Variant OnDeck->ljb26_siphy	1	
+Variant OnDeck	ljb26_sift	Variant OnDeck->ljb26_sift	1	
+Variant OnDeck	ESP6500si_all	Variant OnDeck->ESP6500si_all	1	
+Variant OnDeck	cpgIslandExt	Variant OnDeck->cpgIslandExt	1	
+Variant OnDeck	clinvar_20140702	Variant OnDeck->clinvar_20140702	1	
+Variant OnDeck	clinvar_20131105	Variant OnDeck->clinvar_20131105	1	
+Variant OnDeck	Fantom5_CAGE_peak	Variant OnDeck->Fantom5_CAGE_peak	1	
+Variant OnDeck	Fantom5_TSSpredictions	Variant OnDeck->Fantom5_TSSpredictions	1	
+Variant OnDeck	Fantom5_enhancers	Variant OnDeck->Fantom5_enhancers	1	
+Variant OnDeck	FunSeq	Variant OnDeck->FunSeq	1	
+Variant OnDeck	FlankingSequence	Variant OnDeck->FlankingSequence	1	
+Variant OnDeck	comments	Variant OnDeck->comments	1	
+Variant OnDeck	wgEncodeAwgTfbsUniform	Variant OnDeck->wgEncodeAwgTfbsUniform	1	
+Variant OnDeck	wgEncodeDukeMapabilityRegionsExcludable	Variant OnDeck->wgEncodeDukeMapabilityRegionsExcludable	1	
+Variant OnDeck	wgEncodeDukeMapabilityUniqueness35bp	Variant OnDeck->wgEncodeDukeMapabilityUniqueness35bp	1	
+Variant OnDeck	wgEncodeCrgMapabilityAlign100mer	Variant OnDeck->wgEncodeCrgMapabilityAlign100mer	1	
+Variant OnDeck	userdb1	Variant OnDeck->userdb1	1	
+Variant OnDeck	userdb2	Variant OnDeck->userdb2	1	
+Variant OnDeck	userdb3	Variant OnDeck->userdb3	1	
+Variant OnDeck	userdb4	Variant OnDeck->userdb4	1	
+Variant OnDeck	userdb5	Variant OnDeck->userdb5	1	
+Variant OnDeck	userdb6	Variant OnDeck->userdb6	1	
+Variant OnDeck	userdb7	Variant OnDeck->userdb7	1	
+Variant OnDeck	userdb8	Variant OnDeck->userdb8	1	
+Variant OnDeck	userdb9	Variant OnDeck->userdb9	1	
+Variant OnDeck	userdb10	Variant OnDeck->userdb10	1	
+Variant ID	ANNOVAR annot	Variant ID->ANNOVAR annot	1	
+Variant ID	ANNOVAR annot	Variant ID->Variant OnDeck->ANNOVAR annot	2	0
+Variant ID	Annot Feat	Variant ID->Annot Feat	1	
+Variant ID	Annot Feat	Variant ID->Variant OnDeck->Annot Feat	2	0
+Variant ID	Gene	Variant ID->Gene	1	
+Variant ID	Gene	Variant ID->Variant OnDeck->Gene	2	0
+Variant ID	Ensembl_ANNOVAR annot	Variant ID->Ensembl_ANNOVAR annot	1	
+Variant ID	Ensembl_ANNOVAR annot	Variant ID->Variant OnDeck->Ensembl_ANNOVAR annot	2	0
+Variant ID	Ensembl_Annot Feat	Variant ID->Ensembl_Annot Feat	1	
+Variant ID	Ensembl_Annot Feat	Variant ID->Variant OnDeck->Ensembl_Annot Feat	2	0
+Variant ID	Ensembl_Gene	Variant ID->Ensembl_Gene	1	
+Variant ID	Ensembl_Gene	Variant ID->Variant OnDeck->Ensembl_Gene	2	0
+Variant ID	Gene Ori	Variant ID->Gene Ori	1	
+Variant ID	Gene Ori	Variant ID->Variant OnDeck->Gene Ori	2	0
+Variant ID	siftv63	Variant ID->siftv63	1	
+Variant ID	siftv63	Variant ID->Variant OnDeck->siftv63	2	0
+Variant ID	ljb_pp2	Variant ID->ljb_pp2	1	
+Variant ID	ljb_pp2	Variant ID->Variant OnDeck->ljb_pp2	2	0
+Variant ID	omimGene	Variant ID->omimGene	1	
+Variant ID	omimGene	Variant ID->Variant OnDeck->omimGene	2	0
+Variant ID	snp137	Variant ID->snp137	1	
+Variant ID	ljb_mt	Variant ID->ljb_mt	1	
+Variant ID	hapmap_3_3	Variant ID->hapmap_3_3	1	
+Variant ID	hapmap_3_3	Variant ID->Variant OnDeck->hapmap_3_3	2	0
+Variant ID	gwasCatalog	Variant ID->gwasCatalog	1	
+Variant ID	gwasCatalog	Variant ID->Variant OnDeck->gwasCatalog	2	0
+Variant ID	1000gALL_sites_2012_04	Variant ID->1000gALL_sites_2012_04	1	
+Variant ID	1000gALL_sites_2012_04	Variant ID->Variant OnDeck->1000gALL_sites_2012_04	2	0
+Variant ID	cg69	Variant ID->cg69	1	
+Variant ID	cg69	Variant ID->Variant OnDeck->cg69	2	0
+Variant ID	rptMask	Variant ID->rptMask	1	
+Variant ID	rptMask	Variant ID->Variant OnDeck->rptMask	2	0
+Variant ID	genomicSuperDups	Variant ID->genomicSuperDups	1	
+Variant ID	genomicSuperDups	Variant ID->Variant OnDeck->genomicSuperDups	2	0
+Variant ID	trf	Variant ID->trf	1	
+Variant ID	trf	Variant ID->Variant OnDeck->trf	2	0
+Variant ID	prosite_domains	Variant ID->prosite_domains	1	
+Variant ID	prosite_domains	Variant ID->Variant OnDeck->prosite_domains	2	0
+Variant ID	nonB	Variant ID->nonB	1	
+Variant ID	nonB	Variant ID->Variant OnDeck->nonB	2	0
+Variant ID	SomamiR	Variant ID->SomamiR	1	
+Variant ID	SomamiR	Variant ID->Variant OnDeck->SomamiR	2	0
+Variant ID	lncipedia	Variant ID->lncipedia	1	
+Variant ID	lncipedia	Variant ID->Variant OnDeck->lncipedia	2	0
+Variant ID	VISTA_enhancer_expr_data	Variant ID->VISTA_enhancer_expr_data	1	
+Variant ID	VISTA_enhancer_expr_data	Variant ID->Variant OnDeck->VISTA_enhancer_expr_data	2	0
+Variant ID	wgRna	Variant ID->wgRna	1	
+Variant ID	wgRna	Variant ID->Variant OnDeck->wgRna	2	0
+Variant ID	tfbsConsSites	Variant ID->tfbsConsSites	1	
+Variant ID	tfbsConsSites	Variant ID->Variant OnDeck->tfbsConsSites	2	0
+Variant ID	lincRNA	Variant ID->lincRNA	1	
+Variant ID	lincRNA	Variant ID->Variant OnDeck->lincRNA	2	0
+Variant ID	HMDD	Variant ID->HMDD	1	
+Variant ID	HMDD	Variant ID->Variant OnDeck->HMDD	2	0
+Variant ID	microPIR_targets	Variant ID->microPIR_targets	1	
+Variant ID	microPIR_targets	Variant ID->Variant OnDeck->microPIR_targets	2	0
+Variant ID	targetScanS	Variant ID->targetScanS	1	
+Variant ID	targetScanS	Variant ID->Variant OnDeck->targetScanS	2	0
+Variant ID	ESEFinder	Variant ID->ESEFinder	1	
+Variant ID	ESEFinder	Variant ID->Variant OnDeck->ESEFinder	2	0
+Variant ID	VISTA_enhancer	Variant ID->VISTA_enhancer	1	
+Variant ID	VISTA_enhancer	Variant ID->Variant OnDeck->VISTA_enhancer	2	0
+Variant ID	alt_splice	Variant ID->alt_splice	1	
+Variant ID	alt_splice	Variant ID->Variant OnDeck->alt_splice	2	0
+Variant ID	cosmicdbv67	Variant ID->cosmicdbv67	1	
+Variant ID	SomamiR_targets	Variant ID->SomamiR_targets	1	
+Variant ID	SomamiR_targets	Variant ID->Variant OnDeck->SomamiR_targets	2	0
+Variant ID	ljb26_pp2hvar	Variant ID->ljb26_pp2hvar	1	
+Variant ID	ljb26_pp2hvar	Variant ID->Variant OnDeck->ljb26_pp2hvar	2	0
+Variant ID	ljb26_pp2hdiv	Variant ID->ljb26_pp2hdiv	1	
+Variant ID	ljb26_pp2hdiv	Variant ID->Variant OnDeck->ljb26_pp2hdiv	2	0
+Variant ID	ljb26_lrt	Variant ID->ljb26_lrt	1	
+Variant ID	ljb26_lrt	Variant ID->Variant OnDeck->ljb26_lrt	2	0
+Variant ID	ljb26_phylop	Variant ID->ljb26_phylop	1	
+Variant ID	ljb26_phylop	Variant ID->Variant OnDeck->ljb26_phylop	2	0
+Variant ID	ljb26_ma	Variant ID->ljb26_ma	1	
+Variant ID	ljb26_ma	Variant ID->Variant OnDeck->ljb26_ma	2	0
+Variant ID	ljb26_fathmm	Variant ID->ljb26_fathmm	1	
+Variant ID	ljb26_fathmm	Variant ID->Variant OnDeck->ljb26_fathmm	2	0
+Variant ID	ljb26_siphy	Variant ID->ljb26_siphy	1	
+Variant ID	ljb26_siphy	Variant ID->Variant OnDeck->ljb26_siphy	2	0
+Variant ID	nci60	Variant ID->nci60	1	
+Variant ID	nci60	Variant ID->Variant OnDeck->nci60	2	0
+Variant ID	ESP6500si_all	Variant ID->ESP6500si_all	1	
+Variant ID	ESP6500si_all	Variant ID->Variant OnDeck->ESP6500si_all	2	0
+Variant ID	cpgIslandExt	Variant ID->cpgIslandExt	1	
+Variant ID	cpgIslandExt	Variant ID->Variant OnDeck->cpgIslandExt	2	0
+Variant ID	Variant OnDeck	Variant ID->Variant OnDeck	1	
+Variant ID	ProtPos	Variant ID->Variant OnDeck->ProtPos	2	0
+Variant ID	Provean_v1_1	Variant ID->Variant OnDeck->Provean_v1_1	2	0
+Variant ID	snp138	Variant ID->Variant OnDeck->snp138	2	0
+Variant ID	ljb26_mt	Variant ID->Variant OnDeck->ljb26_mt	2	0
+Variant ID	1000gALL_sites_2014_09	Variant ID->Variant OnDeck->1000gALL_sites_2014_09	2	0
+Variant ID	tassdb	Variant ID->Variant OnDeck->tassdb	2	0
+Variant ID	cytoBand	Variant ID->Variant OnDeck->cytoBand	2	0
+Variant ID	dgvMerged	Variant ID->Variant OnDeck->dgvMerged	2	0
+Variant ID	cosmicdbv68	Variant ID->Variant OnDeck->cosmicdbv68	2	0
+Variant ID	cosmic70	Variant ID->Variant OnDeck->cosmic70	2	0
+Variant ID	ljb26_vest	Variant ID->Variant OnDeck->ljb26_vest	2	0
+Variant ID	ljb26_cadd	Variant ID->Variant OnDeck->ljb26_cadd	2	0
+Variant ID	PTM	Variant ID->Variant OnDeck->PTM	2	0
+Variant ID	ljb26_sift	Variant ID->Variant OnDeck->ljb26_sift	2	0
+Variant ID	clinvar_20140702	Variant ID->Variant OnDeck->clinvar_20140702	2	0
+Variant ID	clinvar_20131105	Variant ID->Variant OnDeck->clinvar_20131105	2	0
+Variant ID	Fantom5_CAGE_peak	Variant ID->Variant OnDeck->Fantom5_CAGE_peak	2	0
+Variant ID	Fantom5_TSSpredictions	Variant ID->Variant OnDeck->Fantom5_TSSpredictions	2	0
+Variant ID	Fantom5_enhancers	Variant ID->Variant OnDeck->Fantom5_enhancers	2	0
+Variant ID	FunSeq	Variant ID->Variant OnDeck->FunSeq	2	0
+Variant ID	FlankingSequence	Variant ID->Variant OnDeck->FlankingSequence	2	0
+Variant ID	comments	Variant ID->Variant OnDeck->comments	2	0
+Variant ID	wgEncodeAwgTfbsUniform	Variant ID->Variant OnDeck->wgEncodeAwgTfbsUniform	2	0
+Variant ID	wgEncodeDukeMapabilityRegionsExcludable	Variant ID->Variant OnDeck->wgEncodeDukeMapabilityRegionsExcludable	2	0
+Variant ID	wgEncodeDukeMapabilityUniqueness35bp	Variant ID->Variant OnDeck->wgEncodeDukeMapabilityUniqueness35bp	2	0
+Variant ID	wgEncodeCrgMapabilityAlign100mer	Variant ID->Variant OnDeck->wgEncodeCrgMapabilityAlign100mer	2	0
+Variant ID	userdb1	Variant ID->Variant OnDeck->userdb1	2	0
+Variant ID	userdb2	Variant ID->Variant OnDeck->userdb2	2	0
+Variant ID	userdb3	Variant ID->Variant OnDeck->userdb3	2	0
+Variant ID	userdb4	Variant ID->Variant OnDeck->userdb4	2	0
+Variant ID	userdb5	Variant ID->Variant OnDeck->userdb5	2	0
+Variant ID	userdb6	Variant ID->Variant OnDeck->userdb6	2	0
+Variant ID	userdb7	Variant ID->Variant OnDeck->userdb7	2	0
+Variant ID	userdb8	Variant ID->Variant OnDeck->userdb8	2	0
+Variant ID	userdb9	Variant ID->Variant OnDeck->userdb9	2	0
+Variant ID	userdb10	Variant ID->Variant OnDeck->userdb10	2	0
+Variant_hg18	Variant ID	Variant_hg18->Variant ID	1	
+Variant_hg18	ANNOVAR annot	Variant_hg18->Variant ID->ANNOVAR annot	2	0
+Variant_hg18	ANNOVAR annot	Variant_hg18->Variant ID->Variant OnDeck->ANNOVAR annot	3	0
+Variant_hg18	Annot Feat	Variant_hg18->Variant ID->Annot Feat	2	0
+Variant_hg18	Annot Feat	Variant_hg18->Variant ID->Variant OnDeck->Annot Feat	3	0
+Variant_hg18	Gene	Variant_hg18->Variant ID->Gene	2	0
+Variant_hg18	Gene	Variant_hg18->Variant ID->Variant OnDeck->Gene	3	0
+Variant_hg18	Ensembl_ANNOVAR annot	Variant_hg18->Variant ID->Ensembl_ANNOVAR annot	2	0
+Variant_hg18	Ensembl_ANNOVAR annot	Variant_hg18->Variant ID->Variant OnDeck->Ensembl_ANNOVAR annot	3	0
+Variant_hg18	Ensembl_Annot Feat	Variant_hg18->Variant ID->Ensembl_Annot Feat	2	0
+Variant_hg18	Ensembl_Annot Feat	Variant_hg18->Variant ID->Variant OnDeck->Ensembl_Annot Feat	3	0
+Variant_hg18	Ensembl_Gene	Variant_hg18->Variant ID->Ensembl_Gene	2	0
+Variant_hg18	Ensembl_Gene	Variant_hg18->Variant ID->Variant OnDeck->Ensembl_Gene	3	0
+Variant_hg18	Gene Ori	Variant_hg18->Variant ID->Gene Ori	2	0
+Variant_hg18	Gene Ori	Variant_hg18->Variant ID->Variant OnDeck->Gene Ori	3	0
+Variant_hg18	siftv63	Variant_hg18->Variant ID->siftv63	2	0
+Variant_hg18	siftv63	Variant_hg18->Variant ID->Variant OnDeck->siftv63	3	0
+Variant_hg18	ljb_pp2	Variant_hg18->Variant ID->ljb_pp2	2	0
+Variant_hg18	ljb_pp2	Variant_hg18->Variant ID->Variant OnDeck->ljb_pp2	3	0
+Variant_hg18	omimGene	Variant_hg18->Variant ID->omimGene	2	0
+Variant_hg18	omimGene	Variant_hg18->Variant ID->Variant OnDeck->omimGene	3	0
+Variant_hg18	snp137	Variant_hg18->Variant ID->snp137	2	0
+Variant_hg18	ljb_mt	Variant_hg18->Variant ID->ljb_mt	2	0
+Variant_hg18	hapmap_3_3	Variant_hg18->Variant ID->hapmap_3_3	2	0
+Variant_hg18	hapmap_3_3	Variant_hg18->Variant ID->Variant OnDeck->hapmap_3_3	3	0
+Variant_hg18	gwasCatalog	Variant_hg18->Variant ID->gwasCatalog	2	0
+Variant_hg18	gwasCatalog	Variant_hg18->Variant ID->Variant OnDeck->gwasCatalog	3	0
+Variant_hg18	1000gALL_sites_2012_04	Variant_hg18->Variant ID->1000gALL_sites_2012_04	2	0
+Variant_hg18	1000gALL_sites_2012_04	Variant_hg18->Variant ID->Variant OnDeck->1000gALL_sites_2012_04	3	0
+Variant_hg18	cg69	Variant_hg18->Variant ID->cg69	2	0
+Variant_hg18	cg69	Variant_hg18->Variant ID->Variant OnDeck->cg69	3	0
+Variant_hg18	rptMask	Variant_hg18->Variant ID->rptMask	2	0
+Variant_hg18	rptMask	Variant_hg18->Variant ID->Variant OnDeck->rptMask	3	0
+Variant_hg18	genomicSuperDups	Variant_hg18->Variant ID->genomicSuperDups	2	0
+Variant_hg18	genomicSuperDups	Variant_hg18->Variant ID->Variant OnDeck->genomicSuperDups	3	0
+Variant_hg18	trf	Variant_hg18->Variant ID->trf	2	0
+Variant_hg18	trf	Variant_hg18->Variant ID->Variant OnDeck->trf	3	0
+Variant_hg18	prosite_domains	Variant_hg18->Variant ID->prosite_domains	2	0
+Variant_hg18	prosite_domains	Variant_hg18->Variant ID->Variant OnDeck->prosite_domains	3	0
+Variant_hg18	nonB	Variant_hg18->Variant ID->nonB	2	0
+Variant_hg18	nonB	Variant_hg18->Variant ID->Variant OnDeck->nonB	3	0
+Variant_hg18	SomamiR	Variant_hg18->Variant ID->SomamiR	2	0
+Variant_hg18	SomamiR	Variant_hg18->Variant ID->Variant OnDeck->SomamiR	3	0
+Variant_hg18	lncipedia	Variant_hg18->Variant ID->lncipedia	2	0
+Variant_hg18	lncipedia	Variant_hg18->Variant ID->Variant OnDeck->lncipedia	3	0
+Variant_hg18	VISTA_enhancer_expr_data	Variant_hg18->Variant ID->VISTA_enhancer_expr_data	2	0
+Variant_hg18	VISTA_enhancer_expr_data	Variant_hg18->Variant ID->Variant OnDeck->VISTA_enhancer_expr_data	3	0
+Variant_hg18	wgRna	Variant_hg18->Variant ID->wgRna	2	0
+Variant_hg18	wgRna	Variant_hg18->Variant ID->Variant OnDeck->wgRna	3	0
+Variant_hg18	tfbsConsSites	Variant_hg18->Variant ID->tfbsConsSites	2	0
+Variant_hg18	tfbsConsSites	Variant_hg18->Variant ID->Variant OnDeck->tfbsConsSites	3	0
+Variant_hg18	lincRNA	Variant_hg18->Variant ID->lincRNA	2	0
+Variant_hg18	lincRNA	Variant_hg18->Variant ID->Variant OnDeck->lincRNA	3	0
+Variant_hg18	HMDD	Variant_hg18->Variant ID->HMDD	2	0
+Variant_hg18	HMDD	Variant_hg18->Variant ID->Variant OnDeck->HMDD	3	0
+Variant_hg18	microPIR_targets	Variant_hg18->Variant ID->microPIR_targets	2	0
+Variant_hg18	microPIR_targets	Variant_hg18->Variant ID->Variant OnDeck->microPIR_targets	3	0
+Variant_hg18	targetScanS	Variant_hg18->Variant ID->targetScanS	2	0
+Variant_hg18	targetScanS	Variant_hg18->Variant ID->Variant OnDeck->targetScanS	3	0
+Variant_hg18	ESEFinder	Variant_hg18->Variant ID->ESEFinder	2	0
+Variant_hg18	ESEFinder	Variant_hg18->Variant ID->Variant OnDeck->ESEFinder	3	0
+Variant_hg18	VISTA_enhancer	Variant_hg18->Variant ID->VISTA_enhancer	2	0
+Variant_hg18	VISTA_enhancer	Variant_hg18->Variant ID->Variant OnDeck->VISTA_enhancer	3	0
+Variant_hg18	alt_splice	Variant_hg18->Variant ID->alt_splice	2	0
+Variant_hg18	alt_splice	Variant_hg18->Variant ID->Variant OnDeck->alt_splice	3	0
+Variant_hg18	cosmicdbv67	Variant_hg18->Variant ID->cosmicdbv67	2	0
+Variant_hg18	SomamiR_targets	Variant_hg18->Variant ID->SomamiR_targets	2	0
+Variant_hg18	SomamiR_targets	Variant_hg18->Variant ID->Variant OnDeck->SomamiR_targets	3	0
+Variant_hg18	ljb26_pp2hvar	Variant_hg18->Variant ID->ljb26_pp2hvar	2	0
+Variant_hg18	ljb26_pp2hvar	Variant_hg18->Variant ID->Variant OnDeck->ljb26_pp2hvar	3	0
+Variant_hg18	ljb26_pp2hdiv	Variant_hg18->Variant ID->ljb26_pp2hdiv	2	0
+Variant_hg18	ljb26_pp2hdiv	Variant_hg18->Variant ID->Variant OnDeck->ljb26_pp2hdiv	3	0
+Variant_hg18	ljb26_lrt	Variant_hg18->Variant ID->ljb26_lrt	2	0
+Variant_hg18	ljb26_lrt	Variant_hg18->Variant ID->Variant OnDeck->ljb26_lrt	3	0
+Variant_hg18	ljb26_phylop	Variant_hg18->Variant ID->ljb26_phylop	2	0
+Variant_hg18	ljb26_phylop	Variant_hg18->Variant ID->Variant OnDeck->ljb26_phylop	3	0
+Variant_hg18	ljb26_ma	Variant_hg18->Variant ID->ljb26_ma	2	0
+Variant_hg18	ljb26_ma	Variant_hg18->Variant ID->Variant OnDeck->ljb26_ma	3	0
+Variant_hg18	ljb26_fathmm	Variant_hg18->Variant ID->ljb26_fathmm	2	0
+Variant_hg18	ljb26_fathmm	Variant_hg18->Variant ID->Variant OnDeck->ljb26_fathmm	3	0
+Variant_hg18	ljb26_siphy	Variant_hg18->Variant ID->ljb26_siphy	2	0
+Variant_hg18	ljb26_siphy	Variant_hg18->Variant ID->Variant OnDeck->ljb26_siphy	3	0
+Variant_hg18	nci60	Variant_hg18->Variant ID->nci60	2	0
+Variant_hg18	nci60	Variant_hg18->Variant ID->Variant OnDeck->nci60	3	0
+Variant_hg18	ESP6500si_all	Variant_hg18->Variant ID->ESP6500si_all	2	0
+Variant_hg18	ESP6500si_all	Variant_hg18->Variant ID->Variant OnDeck->ESP6500si_all	3	0
+Variant_hg18	cpgIslandExt	Variant_hg18->Variant ID->cpgIslandExt	2	0
+Variant_hg18	cpgIslandExt	Variant_hg18->Variant ID->Variant OnDeck->cpgIslandExt	3	0
+Variant_hg18	Variant OnDeck	Variant_hg18->Variant ID->Variant OnDeck	2	0
+Variant_hg18	ProtPos	Variant_hg18->Variant ID->Variant OnDeck->ProtPos	3	0
+Variant_hg18	Provean_v1_1	Variant_hg18->Variant ID->Variant OnDeck->Provean_v1_1	3	0
+Variant_hg18	snp138	Variant_hg18->Variant ID->Variant OnDeck->snp138	3	0
+Variant_hg18	ljb26_mt	Variant_hg18->Variant ID->Variant OnDeck->ljb26_mt	3	0
+Variant_hg18	1000gALL_sites_2014_09	Variant_hg18->Variant ID->Variant OnDeck->1000gALL_sites_2014_09	3	0
+Variant_hg18	tassdb	Variant_hg18->Variant ID->Variant OnDeck->tassdb	3	0
+Variant_hg18	cytoBand	Variant_hg18->Variant ID->Variant OnDeck->cytoBand	3	0
+Variant_hg18	dgvMerged	Variant_hg18->Variant ID->Variant OnDeck->dgvMerged	3	0
+Variant_hg18	cosmicdbv68	Variant_hg18->Variant ID->Variant OnDeck->cosmicdbv68	3	0
+Variant_hg18	cosmic70	Variant_hg18->Variant ID->Variant OnDeck->cosmic70	3	0
+Variant_hg18	ljb26_vest	Variant_hg18->Variant ID->Variant OnDeck->ljb26_vest	3	0
+Variant_hg18	ljb26_cadd	Variant_hg18->Variant ID->Variant OnDeck->ljb26_cadd	3	0
+Variant_hg18	PTM	Variant_hg18->Variant ID->Variant OnDeck->PTM	3	0
+Variant_hg18	ljb26_sift	Variant_hg18->Variant ID->Variant OnDeck->ljb26_sift	3	0
+Variant_hg18	clinvar_20140702	Variant_hg18->Variant ID->Variant OnDeck->clinvar_20140702	3	0
+Variant_hg18	clinvar_20131105	Variant_hg18->Variant ID->Variant OnDeck->clinvar_20131105	3	0
+Variant_hg18	Fantom5_CAGE_peak	Variant_hg18->Variant ID->Variant OnDeck->Fantom5_CAGE_peak	3	0
+Variant_hg18	Fantom5_TSSpredictions	Variant_hg18->Variant ID->Variant OnDeck->Fantom5_TSSpredictions	3	0
+Variant_hg18	Fantom5_enhancers	Variant_hg18->Variant ID->Variant OnDeck->Fantom5_enhancers	3	0
+Variant_hg18	FunSeq	Variant_hg18->Variant ID->Variant OnDeck->FunSeq	3	0
+Variant_hg18	FlankingSequence	Variant_hg18->Variant ID->Variant OnDeck->FlankingSequence	3	0
+Variant_hg18	comments	Variant_hg18->Variant ID->Variant OnDeck->comments	3	0
+Variant_hg18	wgEncodeAwgTfbsUniform	Variant_hg18->Variant ID->Variant OnDeck->wgEncodeAwgTfbsUniform	3	0
+Variant_hg18	wgEncodeDukeMapabilityRegionsExcludable	Variant_hg18->Variant ID->Variant OnDeck->wgEncodeDukeMapabilityRegionsExcludable	3	0
+Variant_hg18	wgEncodeDukeMapabilityUniqueness35bp	Variant_hg18->Variant ID->Variant OnDeck->wgEncodeDukeMapabilityUniqueness35bp	3	0
+Variant_hg18	wgEncodeCrgMapabilityAlign100mer	Variant_hg18->Variant ID->Variant OnDeck->wgEncodeCrgMapabilityAlign100mer	3	0
+Variant_hg18	userdb1	Variant_hg18->Variant ID->Variant OnDeck->userdb1	3	0
+Variant_hg18	userdb2	Variant_hg18->Variant ID->Variant OnDeck->userdb2	3	0
+Variant_hg18	userdb3	Variant_hg18->Variant ID->Variant OnDeck->userdb3	3	0
+Variant_hg18	userdb4	Variant_hg18->Variant ID->Variant OnDeck->userdb4	3	0
+Variant_hg18	userdb5	Variant_hg18->Variant ID->Variant OnDeck->userdb5	3	0
+Variant_hg18	userdb6	Variant_hg18->Variant ID->Variant OnDeck->userdb6	3	0
+Variant_hg18	userdb7	Variant_hg18->Variant ID->Variant OnDeck->userdb7	3	0
+Variant_hg18	userdb8	Variant_hg18->Variant ID->Variant OnDeck->userdb8	3	0
+Variant_hg18	userdb9	Variant_hg18->Variant ID->Variant OnDeck->userdb9	3	0
+Variant_hg18	userdb10	Variant_hg18->Variant ID->Variant OnDeck->userdb10	3	0

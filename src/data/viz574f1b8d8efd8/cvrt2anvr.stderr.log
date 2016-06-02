@@ -1,0 +1,8 @@
+/code/annovar//convert2annovar.pl -format bed --includeinfo --outfile viz574f1b8d8efd8.txt ANNOVAR.input
+NOTICE: Read 4 lines and wrote 0 different variants at 4 genomic positions (4 SNPs and 0 indels)
+NOTICE: Among 0 different variants at 4 positions, 0 are heterozygotes, 0 are homozygotes
+NOTICE: Among 4 SNPs, 0 are transitions, 0 are transversions, 4 have more than 2 alleles
+$VAR1 = {
+          '1-allelic' => 4
+        };
+Done converting

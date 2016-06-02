@@ -1,0 +1,2130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<fdiPaths>
+ <input id="Variant OnDeck">
+  <output id="Ensembl_ANNOVAR annot">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;Ensembl_ANNOVAR annot</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="Ensembl_Annot Feat">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;Ensembl_Annot Feat</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="Ensembl_Gene">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;Ensembl_Gene</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ANNOVAR annot">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ANNOVAR annot</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="Annot Feat">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;Annot Feat</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="Gene">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;Gene</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="Gene Ori">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;Gene Ori</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ProtPos">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ProtPos</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="siftv63">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;siftv63</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="Provean_v1_1">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;Provean_v1_1</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb_pp2">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb_pp2</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="omimGene">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;omimGene</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="snp138">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;snp138</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_mt">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_mt</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="hapmap_3_3">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;hapmap_3_3</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="gwasCatalog">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;gwasCatalog</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="1000gALL_sites_2012_04">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;1000gALL_sites_2012_04</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="1000gALL_sites_2014_09">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;1000gALL_sites_2014_09</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="tassdb">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;tassdb</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="cg69">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;cg69</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="rptMask">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;rptMask</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="genomicSuperDups">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;genomicSuperDups</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="trf">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;trf</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="prosite_domains">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;prosite_domains</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="nonB">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;nonB</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="SomamiR">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;SomamiR</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="lncipedia">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;lncipedia</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="VISTA_enhancer_expr_data">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;VISTA_enhancer_expr_data</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="wgRna">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;wgRna</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="tfbsConsSites">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;tfbsConsSites</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="lincRNA">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;lincRNA</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="HMDD">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;HMDD</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="microPIR_targets">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;microPIR_targets</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="targetScanS">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;targetScanS</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ESEFinder">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ESEFinder</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="VISTA_enhancer">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;VISTA_enhancer</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="alt_splice">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;alt_splice</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="cytoBand">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;cytoBand</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="dgvMerged">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;dgvMerged</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="cosmicdbv68">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;cosmicdbv68</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="cosmic70">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;cosmic70</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="SomamiR_targets">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;SomamiR_targets</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_pp2hvar">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_pp2hvar</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_vest">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_vest</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_cadd">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_cadd</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="nci60">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;nci60</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_pp2hdiv">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_pp2hdiv</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="PTM">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;PTM</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_lrt">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_lrt</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_phylop">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_phylop</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_ma">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_ma</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_fathmm">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_fathmm</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_siphy">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_siphy</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_sift">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ljb26_sift</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ESP6500si_all">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;ESP6500si_all</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="cpgIslandExt">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;cpgIslandExt</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="clinvar_20140702">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;clinvar_20140702</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="clinvar_20131105">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;clinvar_20131105</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="Fantom5_CAGE_peak">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;Fantom5_CAGE_peak</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="Fantom5_TSSpredictions">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;Fantom5_TSSpredictions</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="Fantom5_enhancers">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;Fantom5_enhancers</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="FunSeq">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;FunSeq</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="FlankingSequence">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;FlankingSequence</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="comments">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;comments</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeAwgTfbsUniform">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;wgEncodeAwgTfbsUniform</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeDukeMapabilityRegionsExcludable">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;wgEncodeDukeMapabilityRegionsExcludable</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeDukeMapabilityUniqueness35bp">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;wgEncodeDukeMapabilityUniqueness35bp</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeCrgMapabilityAlign100mer">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;wgEncodeCrgMapabilityAlign100mer</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb1">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;userdb1</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb2">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;userdb2</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb3">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;userdb3</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb4">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;userdb4</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb5">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;userdb5</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb6">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;userdb6</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb7">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;userdb7</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb8">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;userdb8</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb9">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;userdb9</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb10">
+   <pathInfo>
+    <path>Variant OnDeck-&gt;userdb10</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+ </input>
+ <input id="Variant ID">
+  <output id="ANNOVAR annot">
+   <pathInfo>
+    <path>Variant ID-&gt;ANNOVAR annot</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ANNOVAR annot</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Annot Feat">
+   <pathInfo>
+    <path>Variant ID-&gt;Annot Feat</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;Annot Feat</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Gene">
+   <pathInfo>
+    <path>Variant ID-&gt;Gene</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;Gene</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Ensembl_ANNOVAR annot">
+   <pathInfo>
+    <path>Variant ID-&gt;Ensembl_ANNOVAR annot</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;Ensembl_ANNOVAR annot</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Ensembl_Annot Feat">
+   <pathInfo>
+    <path>Variant ID-&gt;Ensembl_Annot Feat</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;Ensembl_Annot Feat</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Ensembl_Gene">
+   <pathInfo>
+    <path>Variant ID-&gt;Ensembl_Gene</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;Ensembl_Gene</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Gene Ori">
+   <pathInfo>
+    <path>Variant ID-&gt;Gene Ori</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;Gene Ori</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="siftv63">
+   <pathInfo>
+    <path>Variant ID-&gt;siftv63</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;siftv63</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb_pp2">
+   <pathInfo>
+    <path>Variant ID-&gt;ljb_pp2</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb_pp2</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="omimGene">
+   <pathInfo>
+    <path>Variant ID-&gt;omimGene</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;omimGene</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="snp137">
+   <pathInfo>
+    <path>Variant ID-&gt;snp137</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb_mt">
+   <pathInfo>
+    <path>Variant ID-&gt;ljb_mt</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="hapmap_3_3">
+   <pathInfo>
+    <path>Variant ID-&gt;hapmap_3_3</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;hapmap_3_3</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="gwasCatalog">
+   <pathInfo>
+    <path>Variant ID-&gt;gwasCatalog</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;gwasCatalog</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="1000gALL_sites_2012_04">
+   <pathInfo>
+    <path>Variant ID-&gt;1000gALL_sites_2012_04</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;1000gALL_sites_2012_04</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="cg69">
+   <pathInfo>
+    <path>Variant ID-&gt;cg69</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;cg69</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="rptMask">
+   <pathInfo>
+    <path>Variant ID-&gt;rptMask</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;rptMask</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="genomicSuperDups">
+   <pathInfo>
+    <path>Variant ID-&gt;genomicSuperDups</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;genomicSuperDups</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="trf">
+   <pathInfo>
+    <path>Variant ID-&gt;trf</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;trf</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="prosite_domains">
+   <pathInfo>
+    <path>Variant ID-&gt;prosite_domains</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;prosite_domains</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="nonB">
+   <pathInfo>
+    <path>Variant ID-&gt;nonB</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;nonB</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="SomamiR">
+   <pathInfo>
+    <path>Variant ID-&gt;SomamiR</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;SomamiR</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="lncipedia">
+   <pathInfo>
+    <path>Variant ID-&gt;lncipedia</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;lncipedia</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="VISTA_enhancer_expr_data">
+   <pathInfo>
+    <path>Variant ID-&gt;VISTA_enhancer_expr_data</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;VISTA_enhancer_expr_data</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="wgRna">
+   <pathInfo>
+    <path>Variant ID-&gt;wgRna</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;wgRna</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="tfbsConsSites">
+   <pathInfo>
+    <path>Variant ID-&gt;tfbsConsSites</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;tfbsConsSites</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="lincRNA">
+   <pathInfo>
+    <path>Variant ID-&gt;lincRNA</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;lincRNA</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="HMDD">
+   <pathInfo>
+    <path>Variant ID-&gt;HMDD</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;HMDD</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="microPIR_targets">
+   <pathInfo>
+    <path>Variant ID-&gt;microPIR_targets</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;microPIR_targets</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="targetScanS">
+   <pathInfo>
+    <path>Variant ID-&gt;targetScanS</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;targetScanS</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ESEFinder">
+   <pathInfo>
+    <path>Variant ID-&gt;ESEFinder</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ESEFinder</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="VISTA_enhancer">
+   <pathInfo>
+    <path>Variant ID-&gt;VISTA_enhancer</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;VISTA_enhancer</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="alt_splice">
+   <pathInfo>
+    <path>Variant ID-&gt;alt_splice</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;alt_splice</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="cosmicdbv67">
+   <pathInfo>
+    <path>Variant ID-&gt;cosmicdbv67</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="SomamiR_targets">
+   <pathInfo>
+    <path>Variant ID-&gt;SomamiR_targets</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;SomamiR_targets</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_pp2hvar">
+   <pathInfo>
+    <path>Variant ID-&gt;ljb26_pp2hvar</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_pp2hvar</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_pp2hdiv">
+   <pathInfo>
+    <path>Variant ID-&gt;ljb26_pp2hdiv</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_pp2hdiv</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_lrt">
+   <pathInfo>
+    <path>Variant ID-&gt;ljb26_lrt</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_lrt</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_phylop">
+   <pathInfo>
+    <path>Variant ID-&gt;ljb26_phylop</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_phylop</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_ma">
+   <pathInfo>
+    <path>Variant ID-&gt;ljb26_ma</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_ma</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_fathmm">
+   <pathInfo>
+    <path>Variant ID-&gt;ljb26_fathmm</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_fathmm</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_siphy">
+   <pathInfo>
+    <path>Variant ID-&gt;ljb26_siphy</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_siphy</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="nci60">
+   <pathInfo>
+    <path>Variant ID-&gt;nci60</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;nci60</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ESP6500si_all">
+   <pathInfo>
+    <path>Variant ID-&gt;ESP6500si_all</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ESP6500si_all</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="cpgIslandExt">
+   <pathInfo>
+    <path>Variant ID-&gt;cpgIslandExt</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;cpgIslandExt</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Variant OnDeck">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ProtPos">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ProtPos</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Provean_v1_1">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;Provean_v1_1</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="snp138">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;snp138</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_mt">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_mt</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="1000gALL_sites_2014_09">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;1000gALL_sites_2014_09</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="tassdb">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;tassdb</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="cytoBand">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;cytoBand</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="dgvMerged">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;dgvMerged</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="cosmicdbv68">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;cosmicdbv68</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="cosmic70">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;cosmic70</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_vest">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_vest</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_cadd">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_cadd</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="PTM">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;PTM</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_sift">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;ljb26_sift</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="clinvar_20140702">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;clinvar_20140702</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="clinvar_20131105">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;clinvar_20131105</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Fantom5_CAGE_peak">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;Fantom5_CAGE_peak</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Fantom5_TSSpredictions">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;Fantom5_TSSpredictions</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="Fantom5_enhancers">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;Fantom5_enhancers</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="FunSeq">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;FunSeq</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="FlankingSequence">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;FlankingSequence</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="comments">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;comments</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeAwgTfbsUniform">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;wgEncodeAwgTfbsUniform</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeDukeMapabilityRegionsExcludable">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;wgEncodeDukeMapabilityRegionsExcludable</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeDukeMapabilityUniqueness35bp">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;wgEncodeDukeMapabilityUniqueness35bp</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeCrgMapabilityAlign100mer">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;wgEncodeCrgMapabilityAlign100mer</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb1">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;userdb1</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb2">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;userdb2</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb3">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;userdb3</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb4">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;userdb4</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb5">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;userdb5</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb6">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;userdb6</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb7">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;userdb7</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb8">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;userdb8</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb9">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;userdb9</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb10">
+   <pathInfo>
+    <path>Variant ID-&gt;Variant OnDeck-&gt;userdb10</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+ </input>
+ <input id="Variant_hg18">
+  <output id="Variant ID">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID</path>
+    <weight/>
+    <distance>1</distance>
+   </pathInfo>
+  </output>
+  <output id="ANNOVAR annot">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ANNOVAR annot</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ANNOVAR annot</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Annot Feat">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Annot Feat</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;Annot Feat</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Gene">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Gene</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;Gene</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Ensembl_ANNOVAR annot">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Ensembl_ANNOVAR annot</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;Ensembl_ANNOVAR annot</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Ensembl_Annot Feat">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Ensembl_Annot Feat</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;Ensembl_Annot Feat</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Ensembl_Gene">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Ensembl_Gene</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;Ensembl_Gene</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Gene Ori">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Gene Ori</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;Gene Ori</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="siftv63">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;siftv63</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;siftv63</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb_pp2">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ljb_pp2</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb_pp2</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="omimGene">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;omimGene</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;omimGene</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="snp137">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;snp137</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb_mt">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ljb_mt</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="hapmap_3_3">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;hapmap_3_3</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;hapmap_3_3</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="gwasCatalog">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;gwasCatalog</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;gwasCatalog</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="1000gALL_sites_2012_04">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;1000gALL_sites_2012_04</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;1000gALL_sites_2012_04</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="cg69">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;cg69</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;cg69</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="rptMask">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;rptMask</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;rptMask</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="genomicSuperDups">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;genomicSuperDups</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;genomicSuperDups</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="trf">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;trf</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;trf</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="prosite_domains">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;prosite_domains</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;prosite_domains</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="nonB">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;nonB</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;nonB</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="SomamiR">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;SomamiR</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;SomamiR</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="lncipedia">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;lncipedia</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;lncipedia</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="VISTA_enhancer_expr_data">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;VISTA_enhancer_expr_data</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;VISTA_enhancer_expr_data</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="wgRna">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;wgRna</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;wgRna</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="tfbsConsSites">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;tfbsConsSites</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;tfbsConsSites</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="lincRNA">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;lincRNA</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;lincRNA</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="HMDD">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;HMDD</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;HMDD</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="microPIR_targets">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;microPIR_targets</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;microPIR_targets</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="targetScanS">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;targetScanS</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;targetScanS</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ESEFinder">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ESEFinder</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ESEFinder</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="VISTA_enhancer">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;VISTA_enhancer</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;VISTA_enhancer</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="alt_splice">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;alt_splice</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;alt_splice</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="cosmicdbv67">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;cosmicdbv67</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="SomamiR_targets">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;SomamiR_targets</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;SomamiR_targets</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_pp2hvar">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ljb26_pp2hvar</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_pp2hvar</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_pp2hdiv">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ljb26_pp2hdiv</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_pp2hdiv</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_lrt">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ljb26_lrt</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_lrt</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_phylop">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ljb26_phylop</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_phylop</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_ma">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ljb26_ma</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_ma</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_fathmm">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ljb26_fathmm</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_fathmm</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_siphy">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ljb26_siphy</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_siphy</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="nci60">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;nci60</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;nci60</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ESP6500si_all">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;ESP6500si_all</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ESP6500si_all</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="cpgIslandExt">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;cpgIslandExt</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;cpgIslandExt</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Variant OnDeck">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck</path>
+    <weight>0</weight>
+    <distance>2</distance>
+   </pathInfo>
+  </output>
+  <output id="ProtPos">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ProtPos</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Provean_v1_1">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;Provean_v1_1</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="snp138">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;snp138</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_mt">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_mt</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="1000gALL_sites_2014_09">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;1000gALL_sites_2014_09</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="tassdb">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;tassdb</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="cytoBand">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;cytoBand</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="dgvMerged">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;dgvMerged</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="cosmicdbv68">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;cosmicdbv68</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="cosmic70">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;cosmic70</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_vest">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_vest</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_cadd">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_cadd</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="PTM">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;PTM</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="ljb26_sift">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;ljb26_sift</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="clinvar_20140702">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;clinvar_20140702</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="clinvar_20131105">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;clinvar_20131105</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Fantom5_CAGE_peak">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;Fantom5_CAGE_peak</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Fantom5_TSSpredictions">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;Fantom5_TSSpredictions</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="Fantom5_enhancers">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;Fantom5_enhancers</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="FunSeq">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;FunSeq</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="FlankingSequence">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;FlankingSequence</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="comments">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;comments</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeAwgTfbsUniform">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;wgEncodeAwgTfbsUniform</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeDukeMapabilityRegionsExcludable">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;wgEncodeDukeMapabilityRegionsExcludable</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeDukeMapabilityUniqueness35bp">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;wgEncodeDukeMapabilityUniqueness35bp</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="wgEncodeCrgMapabilityAlign100mer">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;wgEncodeCrgMapabilityAlign100mer</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb1">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;userdb1</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb2">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;userdb2</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb3">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;userdb3</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb4">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;userdb4</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb5">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;userdb5</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb6">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;userdb6</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb7">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;userdb7</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb8">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;userdb8</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb9">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;userdb9</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+  <output id="userdb10">
+   <pathInfo>
+    <path>Variant_hg18-&gt;Variant ID-&gt;Variant OnDeck-&gt;userdb10</path>
+    <weight>0</weight>
+    <distance>3</distance>
+   </pathInfo>
+  </output>
+ </input>
+</fdiPaths>

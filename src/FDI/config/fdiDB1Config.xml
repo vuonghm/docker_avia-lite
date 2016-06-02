@@ -1,0 +1,9 @@
+
+<fdiConfig>
+  <databaseType>oracle</databaseType>
+  <databaseName>fr-s-oracle-d.ncifcrf.gov/abcc11d.ncifcrf.gov</databaseName>
+  <host>129.43.52.186</host>
+  <port>1521</port>
+  <username>vuonghm</username>
+  <password>hue0404</password>
+</fdiConfig>

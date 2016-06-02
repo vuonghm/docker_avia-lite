@@ -1,0 +1,36 @@
+sh: 1: Syntax error: "|" unexpected
+printing to viz574f1b8d8efd8.txt_000.variant_function.collapsed()
+Reading viz574f1b8d8efd8.txt_000.variant_function
+Fetch script did not work..skipping (/code/annovar/../annofetch3)working on submitting database (/code/annovar/humandb//hg19_cytoBand.txt) to run
+ANNOVAR Running on host(): db79670b4a5a
+ANNOVAR Version:
+	$LastChangedDate: 2011-10-05 09:10:39 -0700 (Wed, 05 Oct 2011) $
+ANNOVAR Information:
+	For questions, comments, documentation, bug reports and program update, please visit http://www.openbioinformatics.org/annovar/
+ANNOVAR Command:
+	/code/annovar/annotate_variation_ABCC2IP.pl --buildver hg19 --dbtype cytoBand --batchsize 100k --regionanno --keepline --silent viz574f1b8d8efd8.txt_000 /code/annovar/humandb
+ANNOVAR Started:
+	Wed Jun  1 17:29:53 UTC 2016
+	(with modified hash annots)
+NOTICE: Reading annotation database /code/annovar/humandb/hg19_cytoBand.txt ... Done with 862 regions
+NOTICE: Finished region-based annotation on 4 genetic variants in viz574f1b8d8efd8.txt_000
+NOTICE: Output files were written to viz574f1b8d8efd8.txt_000.hg19_cytoBand
+ANNOVAR Completed:
+	Wed Jun  1 17:29:53 2016
+[INFO] Waiting for children processes to complete
+[INFO] Finished collecting data on databases across 0...:viz574f1b8d8efd8.txt_000.hg19_cytoBand,viz574f1b8d8efd8.txt_000.hg19_ProtPos
+[INFO] About to paste all samples for 000
+[INFO] About to runNMD at LN745
+	viz574f1b8d8efd8.txt.annovar_wrpr_000 and output
+[INFO]  Done Pasting for 000
+(viz574f1b8d8efd8.txt.annovar_wrpr.output)
+working on appending the following:
+	viz574f1b8d8efd8.txt.annovar_wrpr_000.output
+Working to get headers
+Done getting headers and renaming
+Concatenating...verticallyviz574f1b8d8efd8.txt.annovar_wrpr_000.output
+About to run: grep -ve '^#' viz574f1b8d8efd8.txt.annovar_wrpr_000.output >>viz574f1b8d8efd8.txt.annovar_wrpr.output
+Checking uniprot and running if necessary
+$VAR1 = {};
+ does not exist!!
+Done!

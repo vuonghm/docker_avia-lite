@@ -1,0 +1,11 @@
+[Target_Info]
+gene=
+alias=
+base_dir=/mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/data
+label=
+
+[UserInfo]
+email=vuongh@mail.nih.gov
+avia-l_ver=v1.0_201501
+webuser=0
+writeVCF=0

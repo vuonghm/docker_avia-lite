@@ -1,0 +1,100 @@
+Redirecting stderr and stdout to /code/src/data/viz574f1b8d8efd8/web_wrapper.log
+[INFO] WRiting to /code/src/data/viz574f1b8d8efd8/ANNOVAR.input<br />
+Running /usr/bin/perl /code/annovar//convert2annovar.pl -format  bed  --includeinfo --outfile viz574f1b8d8efd8.txt ANNOVAR.input at 208
+cut -f1-5,11-100 viz574f1b8d8efd8.txt |grep -ve '^#' |perl -pe '$_=join ":", split /\t+/, $_, 5' | sed 's/^chr//' | sed 's/\t/ | /g' |perl -pe '$_=join " | ", split / | /, $_, 1'> viz574f1b8d8efd8.hg19_comments
+writing to /code/src/data/viz574f1b8d8efd8/searchTheseDBs.txt...In Reorder...
+Successfully opened a database file to rearrange (/code/annovar/humandb/database.info)
+<br />[INFO] Writing to /code/src/data/viz574f1b8d8efd8/runAVIA_post.bat???<br />About to run /code/src/data/viz574f1b8d8efd8/run_avia.bat
+<br />/code/src/data/viz574f1b8d8efd8/run_avia.bat 2>>/code/src/data/viz574f1b8d8efd8/run_avia.log
+$VAR1 = {
+          'hg19_FunSeq.txt' => 'perl /code/annovar/smart_wrpr.pl -t funseq -a FOLDERNAME -f INPUTFN -V',
+          'hg19_FlankingSequence' => '/code/annovar/../annofetch3 INPUTFN 20 OUTNAME.hg19_FlankingSequence ',
+          'mm10_sift4G.txt' => 'perl /code/annovar/sift4G_wrpr.pl -i INPUTFN -a FOLDERNAME',
+          'hg19_uniprot.txt' => 'perl /code/annovar/smart_wrpr.pl -t uniprot -a FOLDERNAME -f INPUTFN -O OUTNAME -V',
+          '*Encode*' => 'perl /code/annovar/smart_wrpr.pl -o \'-b DBNAME\' -t intersectBed -a FOLDERNAME -f INPUTFN -V',
+          'mm10_provean.txt' => 'perl /code/annovar/provean_wrpr.pl -i INPUTFN -a FOLDERNAME',
+          'hg19_FunSeq2.txt' => 'perl /code/annovar/smart_wrpr.pl -t funseq2 -a FOLDERNAME -f INPUTFN -V '
+        };
+
+
+ (ProteinDB modules) is set?
+cmd:/usr/bin/split -l 200000 -a 3 -d viz574f1b8d8efd8.txt viz574f1b8d8efd8.txt\_ 
+Running perl /code/annovar/annotate_variation_ABCC2IP.pl  --buildver hg19  --extype --geneanno  --keepline --relpos  viz574f1b8d8efd8.txt_000 /code/annovar/humandb
+System Resource Info:  Linux db79670b4a5a 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+					--------->Reinstate this line 172
+ANNOVAR Running on host(): db79670b4a5a
+ANNOVAR Version:
+	$LastChangedDate: 2011-10-05 09:10:39 -0700 (Wed, 05 Oct 2011) $
+ANNOVAR Information:
+	For questions, comments, documentation, bug reports and program update, please visit http://www.openbioinformatics.org/annovar/
+ANNOVAR Command:
+	/code/annovar/annotate_variation_ABCC2IP.pl --buildver hg19 --extype --geneanno --keepline --relpos viz574f1b8d8efd8.txt_000 /code/annovar/humandb
+ANNOVAR Started:
+	Wed Jun  1 17:29:49 UTC 2016
+	(with modified hash annots)
+NOTICE: Reading gene annotation from /code/annovar/humandb/hg19_refGene.txt ... Done with 52008 transcripts (including 11837 without coding sequence annotation) for 26464 unique genes
+NOTICE: Reading FASTA sequences from /code/annovar/humandb/hg19_refGeneMrna.fa ... Done with 3 sequences
+
+---------------------------------------------------------------------------------------
+WARNING: 1 exonic SNPs have WRONG reference alleles specified in your input file!
+WARNING: An example input line is <chr7	87160618	87160618	A	C	chr7	87160618	87160618	A	C	>
+WARNING: ANNOVAR can still annotate exonic_variant_function for the mutation correctly!
+WARNING: you may have used wrong -buildver, or did not specify the correct reference allele!
+---------------------------------------------------------------------------------------
+
+NOTICE: Finished gene-based annotation on 5 genetic variants in viz574f1b8d8efd8.txt_000 (no invalid entries)
+NOTICE: Output files were written to viz574f1b8d8efd8.txt_000.variant_function, viz574f1b8d8efd8.txt_000.exonic_variant_function
+ANNOVAR Completed:
+	Wed Jun  1 17:29:52 2016
+No protDBs requested
+
+NOTICE: Collapsed viz574f1b8d8efd8.txt_000.variant_function and viz574f1b8d8efd8.txt_000.exonic_variant_function to viz574f1b8d8efd8.txt_000.variant_function.collapsed
+
+ANNOVAR Completed:
+	Wed Jun  1 17:29:52 UTC 2016
+There are 1 batches!!!
+The last file (viz574f1b8d8efd8.txt_000) has 5 and 1
+[Checkpoint#479]PBS000_0...(30754)16(perl /code/annovar/annotate_variation_ABCC2IP.pl   --buildver hg19 --dbtype cytoBand --batchsize 100k  --regionanno --keepline --silent viz574f1b8d8efd8.txt_000 /code/annovar/humandb)
+System Resource Info:  Linux db79670b4a5a 3.13.0-85-generic #129-Ubuntu SMP Thu Mar 17 20:50:15 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+					--------->Reinstate this line 172
+ANNOVAR Running on host(): db79670b4a5a
+ANNOVAR Version:
+	$LastChangedDate: 2011-10-05 09:10:39 -0700 (Wed, 05 Oct 2011) $
+ANNOVAR Information:
+	For questions, comments, documentation, bug reports and program update, please visit http://www.openbioinformatics.org/annovar/
+ANNOVAR Command:
+	/code/annovar/annotate_variation_ABCC2IP.pl --buildver hg19 --dbtype cytoBand --batchsize 100k --regionanno --keepline --silent viz574f1b8d8efd8.txt_000 /code/annovar/humandb
+in _getABCC_DBInfo...
+ANNOVAR Started:
+	Wed Jun  1 17:29:53 UTC 2016
+	(with modified hash annots)
+NOTICE: Reading annotation database /code/annovar/humandb/hg19_cytoBand.txt ... Done with 862 regions
+NOTICE: Finished region-based annotation on 4 genetic variants in viz574f1b8d8efd8.txt_000
+NOTICE: Output files were written to viz574f1b8d8efd8.txt_000.hg19_cytoBand
+ANNOVAR Completed:
+	Wed Jun  1 17:29:53 2016
+
+About to fork processes
+Running system: ls | grep viz574f1b8d8efd8.txt_000.hg19_cytoBand$ 
+looking for hg19_cytoBand...found(viz574f1b8d8efd8.txt_000.hg19_cytoBand)
+Concatenating horizontally...
+paste viz574f1b8d8efd8.txt_000.hg19_cytoBand viz574f1b8d8efd8.txt_000.hg19_ProtPos ./viz574f1b8d8efd8.txt_000.variant_function.collapsed > viz574f1b8d8efd8.txt.annovar_wrpr_000.output
+/code/src/data/scripts.dir/genConsequenceCol.pl -f viz574f1b8d8efd8.txt.annovar_wrpr.output -g -l viz574f1b8d8efd8.annot.txt -o viz574f1b8d8efd8.annot.txt -k
+working on #cytoBand (0)
+working on #ProtPos (1)
+working on #ANNOVAR annot (2)
+working on Gene (3)
+working on Rel pos to feature(s) (4)
+working on Gene Ori (5)
+working on Chr (6)
+working on Query Start (7)
+working on Query End (8)
+working on Allele1 (9)
+working on Allele2 (10)
+I'm here: $VAR1 = {
+          'ANNOVAR annot' => 2,
+          'Gene' => 3,
+          'Rel pos' => 4,
+          'Gene Ori' => 5,
+          'Chr' => 6
+        };

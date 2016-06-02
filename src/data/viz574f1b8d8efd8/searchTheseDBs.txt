@@ -1,0 +1,1 @@
+/code/annovar/humandb//hg19_cytoBand.txt

@@ -1,0 +1,16 @@
+					--------->Reinstate this line 172
+ANNOVAR Running on host(): db79670b4a5a
+ANNOVAR Version:
+	$LastChangedDate: 2011-10-05 09:10:39 -0700 (Wed, 05 Oct 2011) $
+ANNOVAR Information:
+	For questions, comments, documentation, bug reports and program update, please visit http://www.openbioinformatics.org/annovar/
+ANNOVAR Command:
+	/code/annovar/annotate_variation_ABCC2IP.pl --buildver hg19 --dbtype cytoBand --batchsize 100k --regionanno --keepline --silent viz574f1b8d8efd8.txt_000 /code/annovar/humandb
+ANNOVAR Started:
+	Wed Jun  1 17:29:53 UTC 2016
+	(with modified hash annots)
+NOTICE: Reading annotation database /code/annovar/humandb/hg19_cytoBand.txt ... Done with 862 regions
+NOTICE: Finished region-based annotation on 4 genetic variants in viz574f1b8d8efd8.txt_000
+NOTICE: Output files were written to viz574f1b8d8efd8.txt_000.hg19_cytoBand
+ANNOVAR Completed:
+	Wed Jun  1 17:29:53 2016

@@ -1,0 +1,98 @@
+#Database	Source	Version from Source	Short Description of Database Value
+GERP++	ANNOVAR	2012Feb22	
+Genomic Super Dups	UCSC	hg19	Score and position of genomic duplications using data downloaded from UCSC
+CpG Islands	UCSC	hg19	CpG Islands, downloaded from UCSC.  If variant is within a CpG island, the number represents the count of CpGs in the island.
+TargetScan Results	UCSC	hg19	The gene target and its miRNA, using UCSC's targetScan 
+CHB CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+TSI CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+Location of bands seen on Giemsa-stained chromosomes	UCSC	hg19	Location of cytogenic band using UCSC's cytoband  database
+MKK CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+GIH CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+Gerp++ Elem	ANNOVAR	2012Apr17	
+Long intergenic non-coding RNAs (LincRNAs)	Broad Institute	hg19	Long intergenic non-coding RNAs using data from the Broad Institute
+Polyphen2 Predictions and Scores	ANNOVAR	2011May11	
+GWAS Catalog	UCSC	hg19	Genome Wide Association Studies from UCSC
+Database of Genomic Variants	UCSC	hg19	
+YRI CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+CEPH-UTAH CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+Phast Contrast Elements (46way)	UCSC	hg19	
+nonB database	ABCC	hg19	Location of nonB structures from ABCC, FNLCR
+COSMIC database	COSMIC	v64 3/2012	
+ASW CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+JPT CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+All Alt Allele Freq from 1000G Project	ANNOVAR	hg19	Alternative Allele Frequence from 1000G project from ANNOVAR's database
+dbSNPv135	dbSNP	135	
+Conserved Transcription Factor Binding Sites	UCSC	hg19	Transcription Factor Binding Site using UCSC tfbsConsSites data
+PUR CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+SIFT scores	ANNOVAR	2011Mar01	
+snoRNA and miRNA annotations	UCSC	hg19	snoRNA and miRNA annotations using UCSC
+Combined Scores for SIFT, PP2, Phylop, LRT, MT and GERP++	ANNOVAR	2012Feb22 	
+JCVI SIFT scores 	ANNOVAR	hg19	
+Tandem Splice Database (TASS DB)	TASSDB	hg19	Affected gene and donor/acceptor status from TASS DB
+Sift predictions and scores	JCVI	v63	Scores and Predictions From SIFT, where smaller values are deleterious, downloaded from JCVI v63
+Repeat Masker	ABCC	hg19	Type of Repeat using ABCC, FNLCR's Repeat Masker
+Online Mendelian Inheritance in Man	OMIM	hg19	OMIM Identifier; OMIM is a database of genes associated with Mendelian inheritance, downloaded from OMIM
+Complete Genomics 69 Genomes	Complete Genomics	hg19	Allele Frequencies from Complete Genomics dataset
+MXL CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+LWK CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+Whole Exome LRT scores	ANNOVAR	hg19	
+CEU CGI Population (homozygous)	ABCC; parsed from Complete Genomics	hg19	
+HapMap Allele Frequency	GATK HapMap converted download	3.3	Allele Frequences from HapMap from GATK HapMap database
+Prosite Domains	ProSite	June 2012	Location and type of Prosite domains within transcripts, analyzed by ABCC from data downloaded from Prosite
+microPIR	microPIR http://www4a.biotec.or.th/micropir	June2012	microPIR miRNA targets within human promoter sequences from microPIR website
+Tandem Repeat Finder	Dfam	v1	Tandem repeat Sequence using Dfam
+DFam database	Dfam	v1.1	
+Lncipedia	Lncipedia	v1.2	Long non-coding RNA names using Lncipedia
+VISTA expression patterns in organs	VISTA	2013-01-22	Non coding fragments with enhancer activity from VISTA (in mice) 
+Ensembl Alt Splice Events	Ensembl	v63	
+ESE Finder Results	ABCC parsed 	ESEFinder v3.0	
+miRBase	miRBase	v19	
+Human miRNA Disease Database	HMDD	2012-09	
+VISTA enhancer coordinates	VISTA	2013-01-22	
+Encode Mapability 	UCSC	January 2010	
+Duke/Encode Uniqueness	UCSC	Release 3 (October 2011)	
+SomamiR	SomamiR database	Jan 2013 download	
+Targets of SomamiR	SomamiR	Jan 2013 download	
+Encode Excludable Regions	UCSC	Jan 2013 download	Regions of the genome that may be problematic to map due to repeats, from UCSC wgEncodeDukeMapabilityRegionsExcludable
+dbSNP v137	dbSNP	137	
+Post Translational Modifications from PhosphoSitePlus and Phosida	PhosphoSitePlus and Phosida	v2.0 4/12/13 /IPI 3.24	Post translational modifications from PhosphoSitePlus and Phosida
+Encode Uniform Peak TFBS	UCSC	Mar2012	Transcription factor binding sites, Gene, and ChIP Seq Score using data from UCSC
+Self Chain	UCSC	hg19	Scores from the alignments of human chromosome vs itself downloaded from UCSC
+Encode Methylation by RRBS	UCSC	Mar2012	Encodes score for Methylation for CpG Islands, downloaded from UCSC Mar2012
+Polyphen 2 Predictions and Scores (Human Var)	ANNOVAR	June 2013	
+Polyphen 2 Predictions and Scores (Human Div)	ANNOVAR	June 2013	
+NCI-60 human tumor cell line panel exome sequencing allele frequency data 	ANNOVAR	July 2013	Allele Frequencies for NCI-60 human tumor cell line panel, using ANNOVAR's nci60
+Fathmm Scores	download from ANNOVAR	June 2013	
+SiPhy Scores	download from ANNOVAR	July 2013	
+COSMIC v67	COSMIC	v67 11/12/13	this had errors from source
+NHLBI Exon Sequencing Allele Frequencies (All)	ANNOVAR	2013Jan22 	Allele Frequencies from NHLBI's Exon Sequencing Project using ANNOVAR's ESP6500si_all 
+Database of Genomic Variants	DGV	2013-07-23	Database of Genomic Variants (DGV) ID, type and Pubmed source using DGV
+Function based Prioritization of Sequence Variants (FunSeq)	Gerstein Lab	v1.0	Prioritization score for non-coding and coding variants based on several factors generated from FunSeq application
+ClinVar	ANNOVAR	20140702	Clinical significance (SIG) of variant from ClinVar
+COSMIC v68	COSMIC	downloaded Feb 3, 2014	COSMIC Id, gene and protein position and change
+SIFT	ANNOVAR	downloaded 20140222 	SIFT scores and Predictions where higher values are deleterious
+Polyphen2 Predictions and Scores  v2.3 (Human Var) 	ANNOVAR	20140222	Prediction and score for Polyphen2, a predictive algorithm for nonsynonymous SNPs using the Human Var database
+Polyphen2 Predictions and Scores  v2.3 (Human Div)	ANNOVAR	20140222	Prediction and score for Polyphen2, a predictive algorithm for nonsynonymous SNPs using the Human Div database
+Fantom5 CAGE peaks	FANTOM5	v5	FANTOM5 CAGE Peaks locations 
+FANTOM5 Enhancers	FANTOM5	v5 downloaded 3/28/14	FANTOM5 Enhancers locations
+FANTOM5 Transcription Start Site Prediction	FANTOM5	v5 downloaded 3/28/14	FANTOM5 Transcript Start Site locations
+dbSNP v138	download from ANNOVAR	20131213	NCBI's dbSNP ID: allele frequency (het frequency) from ANNOVAR's snp138
+Provean Predictions and Scores	JCVI	v1.1	Score and Prediction from Provean, an algorithm that predicts the impact of a mutation on the biological function of a protein from JCVI v1.1
+Summary	AVIA	v2.0	Summary of annotations: D=Damaging in &gt;= protein algorithms,C=COSMIC variant ,F=Funseq score &gt; 2, O=OMIM gene,  P=in a PTM site,V=ClinVar with pathogenic significance
+Mutation Assessor	download ANNOVAR	20140925	Prediction and Score from Mutation Assessor, an algorithm that assesses the functional impact in proteins, from ANNOVAR's ljb26_ma
+ANNOVAR annot	AVIA	v2.0	annotation based on gene annotations
+Annot Feat	AVIA	v2.0	Annotations, if coding, then it reports transcript and protein annotation, if intronic or UTR, distance from nearest feature, and if intergenic, reports nearest gene
+Gene	AVIA	v2.0	Gene or nearest gene, if intergenic; may also display intronic splice variants
+ProtPos	AVIA	v2.0	Transcript and Protein Amino Acid Change and  Positions
+Zygosity	User Data		Zygosity extracted from user data, if multiple samples, then only first is reported
+Mutation Taster	download from ANNOVAR	20140925	Prediction and Score from Mutation Taster, an algorithm that calculates disease causing potential of sequence alterations, from ANNOVAR's database using ljb26_mt
+Polyphen2 Predictions and Scores  (Human Div)	ANNOVAR	20140925	Prediction and score for Polyphen2, a predictive algorithm for nonsynonymous SNPs using the Human Div database, using ANNOVAR's ljb26_pp2hdiv
+Polyphen2 Predictions and Scores  (Human Var) 	ANNOVAR	20140925	Prediction and score for Polyphen2, a predictive algorithm for nonsynonymous SNPs using the Human Var database, using ANNOVAR's ljb26_pp2hvar
+SIFT	ANNOVAR	20140925	SIFT scores and Predictions,  where higher values are deleterious, using ANNOVAR's ljb26_sift
+Variant Effect Scoring Tool (VEST)	ANNOVAR	20140925 	Variant Effect Scoring Tool scores for prioritizing missense mutations, using ANNOVAR's ljb26_vest
+Combined Annotation Dependent Depletion (CADD) 	ANNOVAR	20140925 	Combined Annotation Dependent Depletion Raw Scores (Phred Scores) downloaded from ANNOVAR's ljb26_cadd
+Functional Analysis through Hidden Markov Models (FATHMM)	ANNOVAR	20140925	Scores for predicting functional consequences of both coding and non-coding variants downloaded from ANNOVAR's ljb26_fathmm
+COSMIC v70	ANNOVAR	v70	COSMIC db ID and occurrence, using ANNOVAR's cosmic70 database
+Ensembl ANNOVAR annot	AVIA	v2.0	annotation based on gene annotations
+Ensembl Annot Feat	AVIA	v2.0	Annotations, if coding, then it reports transcript and protein annotation, if intronic or UTR, distance from nearest feature, and if intergenic, reports nearest gene
+Ensembl Gene	AVIA	v2.0	Gene or nearest gene, if intergenic; may also display intronic splice variants

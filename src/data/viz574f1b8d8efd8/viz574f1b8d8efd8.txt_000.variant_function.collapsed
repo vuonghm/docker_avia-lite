@@ -1,0 +1,5 @@
+#ANNOVAR annot	Gene	Rel pos to feature(s)	Gene Ori	Chr	Query Start	Query End	Allele1	Allele2
+exonic	ABCB1	nonsynonymous SNV:ABCB1:NM_000927:exon22:c.T2677G:p.S893A:Tct,	-	chr7	87160618	87160618	A	C	chr7	87160618	87160618	A
+ncRNA_intronic	WASH7P	NR_024540:E2:+3158	-	chr1	21580	21580	C	T	chr1	21580	21580	C
+exonic	PDCD11	frameshift deletion:PDCD11:NM_014976:exon5:c.529delA:p.R177fs:Aga,	+	chr10	105164905	105164905	A	-	chr10	105164905	105164905	A
+exonic	COL17A1	frameshift deletion:COL17A1:NM_000494:exon13:c.920delT:p.V307fs:gTg,	-	chr10	105821222	105821222	A	-	chr10	105821222	105821222	A

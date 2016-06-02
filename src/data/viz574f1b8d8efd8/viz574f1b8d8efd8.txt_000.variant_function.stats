@@ -1,0 +1,4 @@
+Gene:	nonsynonymous SNV	stopgain SNV	stoploss SNV	synonymous SNV	nonframeshift indel/substitution	frameshift indel/substitution	unknown
+ABCB1	1	0	0	0	0	0	0
+PDCD11	0	0	0	0	0	1	0
+COL17A1	0	0	0	0	0	1	0

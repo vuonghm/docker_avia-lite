@@ -1,0 +1,31 @@
+					--------->Reinstate this line 172
+ANNOVAR Running on host(): db79670b4a5a
+ANNOVAR Version:
+	$LastChangedDate: 2011-10-05 09:10:39 -0700 (Wed, 05 Oct 2011) $
+ANNOVAR Information:
+	For questions, comments, documentation, bug reports and program update, please visit http://www.openbioinformatics.org/annovar/
+ANNOVAR Command:
+	/code/annovar/annotate_variation_ABCC2IP.pl --buildver hg19 --extype --geneanno --keepline --relpos viz574f1b8d8efd8.txt_000 /code/annovar/humandb
+ANNOVAR Started:
+	Wed Jun  1 17:29:49 UTC 2016
+	(with modified hash annots)
+NOTICE: Reading gene annotation from /code/annovar/humandb/hg19_refGene.txt ... Done with 52008 transcripts (including 11837 without coding sequence annotation) for 26464 unique genes
+NOTICE: Reading FASTA sequences from /code/annovar/humandb/hg19_refGeneMrna.fa ... Done with 3 sequences
+
+---------------------------------------------------------------------------------------
+WARNING: 1 exonic SNPs have WRONG reference alleles specified in your input file!
+WARNING: An example input line is <chr7	87160618	87160618	A	C	chr7	87160618	87160618	A	C	>
+WARNING: ANNOVAR can still annotate exonic_variant_function for the mutation correctly!
+WARNING: you may have used wrong -buildver, or did not specify the correct reference allele!
+---------------------------------------------------------------------------------------
+
+NOTICE: Finished gene-based annotation on 5 genetic variants in viz574f1b8d8efd8.txt_000 (no invalid entries)
+NOTICE: Output files were written to viz574f1b8d8efd8.txt_000.variant_function, viz574f1b8d8efd8.txt_000.exonic_variant_function
+ANNOVAR Completed:
+	Wed Jun  1 17:29:52 2016
+No protDBs requested
+
+NOTICE: Collapsed viz574f1b8d8efd8.txt_000.variant_function and viz574f1b8d8efd8.txt_000.exonic_variant_function to viz574f1b8d8efd8.txt_000.variant_function.collapsed
+
+ANNOVAR Completed:
+	Wed Jun  1 17:29:52 UTC 2016

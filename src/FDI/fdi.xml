@@ -1,0 +1,745 @@
+<fdi>
+	<input id="Variant OnDeck">
+		<!-- <output id="Variant Self">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -a " />
+            <weight>1</weight>        
+        </output>  -->
+    	 <output id="Ensembl_ANNOVAR annot">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -E -d 'Ensembl_ANNOVAR annot' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="Ensembl_Annot Feat">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -E -d 'Ensembl_Rel pos' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="Ensembl_Gene">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -E -d 'Ensembl_Gene' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ANNOVAR annot">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ANNOVAR annot' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="Annot Feat">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'Rel pos' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="Gene">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'Gene' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="Gene Ori">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'Gene Ori' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ProtPos">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ProtPos' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="siftv63">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'siftv63' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="Provean_v1_1">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'Provean_v1_1' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb_pp2">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb_pp2' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="omimGene">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'omimGene' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="snp138">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'snp138' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_mt">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_mt' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="hapmap_3_3">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'hapmap_3_3' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="gwasCatalog">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'gwasCatalog' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="1000gALL_sites_2012_04">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d '1000gALL_sites_2012_04' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="1000gALL_sites_2014_09">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d '1000gALL_sites_2014_09' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="tassdb">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'tassdb' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="cg69">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'cg69' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="rptMask">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'rptMask' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="genomicSuperDups">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'genomicSuperDups' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="trf">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'trf' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="prosite_domains">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'prosite_domains' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="nonB">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'nonB' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="SomamiR">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'SomamiR' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="lncipedia">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'lncipedia' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="VISTA_enhancer_expr_data">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'VISTA_enhancer_expr_data' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="wgRna">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'wgRna' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="tfbsConsSites">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'tfbsConsSites' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="lincRNA">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'lincRNA' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="HMDD">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'HMDD' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="microPIR_targets">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'microPIR_targets' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="targetScanS">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'targetScanS' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ESEFinder">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ESEFinder' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="VISTA_enhancer">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'VISTA_enhancer' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="alt_splice">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'alt_splice' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="cytoBand">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'cytoBand' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="dgvMerged">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'dgvMerged' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="cosmicdbv68">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'cosmicdbv68' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="cosmic70">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'cosmic70' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="SomamiR_targets">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'SomamiR_targets' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_pp2hvar">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_pp2hvar' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_vest">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_vest' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_cadd">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_cadd' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="nci60">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'nci60' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_pp2hdiv">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_pp2hdiv' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="PTM">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'PTM' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_lrt">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_lrt' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_phylop">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_phylop' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_ma">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_ma' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_fathmm">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_fathmm' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_siphy">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_siphy' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="ljb26_sift">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ljb26_sift' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="nci60">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'nci60' -a " />
+			<weight>1</weight>
+		</output> 
+		<output id="ESP6500si_all">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'ESP6500si_all' -a " />
+			<weight>1</weight>
+		</output>  
+		<output id="cpgIslandExt">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'cpgIslandExt' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="clinvar_20140702">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'clinvar_20140702' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="clinvar_20131105">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'clinvar_20131105' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="PTM">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'PTM' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="Fantom5_CAGE_peak">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'Fantom5_CAGE_peak' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="Fantom5_TSSpredictions">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'Fantom5_TSSpredictions' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="Fantom5_enhancers">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'Fantom5_enhancers' -a " />
+			<weight>1</weight>
+		</output>
+
+		<!-- <output id="FunSeq">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/smart_wrpr.pl -g -t funseq -a  " />
+			<weight>1</weight>
+		</output> -->
+		<output id="FunSeq">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d FunSeq -a  " />
+			<weight>1</weight>
+		</output>
+		<output id="FlankingSequence">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'FlankingSequence' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="comments">
+			<api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'comments' -a " />
+			<weight>1</weight>
+		</output>
+		<output id="wgEncodeAwgTfbsUniform">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'wgEncodeAwgTfbsUniform' -a " />
+            <weight>1</weight>
+        </output> 
+        <output id="wgEncodeDukeMapabilityRegionsExcludable">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d  'wgEncodeDukeMapabilityRegionsExcludable' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="wgEncodeDukeMapabilityUniqueness35bp">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'wgEncodeDukeMapabilityUniqueness35bp' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="wgEncodeCrgMapabilityAlign100mer">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'wgEncodeCrgMapabilityAlign100mer' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="userdb1">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'userdb1' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="userdb2">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'userdb2' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="userdb3">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'userdb3' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="userdb4">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'userdb4' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="userdb5">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'userdb5' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="userdb6">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'userdb6' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="userdb7">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'userdb7' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="userdb8">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'userdb8' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="userdb9">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'userdb9' -a " />
+            <weight>1</weight>
+        </output>
+        <output id="userdb10">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -d 'userdb10' -a " />
+            <weight>1</weight>
+        </output>
+
+
+
+
+	</input>
+
+	<input id="Variant ID">
+		<output id="ANNOVAR annot">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ANNOVAR annot'</whereClause>
+			</db>
+		</output> 
+		<output id="Annot Feat">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'Rel pos to feature(s)'</whereClause>
+			</db>
+		</output> 
+		<output id="Gene">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'Gene'</whereClause>
+			</db>
+		</output> 
+		<output id="Ensembl_ANNOVAR annot">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'Ensembl_ANNOVAR annot'</whereClause>
+			</db>
+		</output> 
+		<output id="Ensembl_Annot Feat">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'Ensembl_Rel pos to feature(s)'</whereClause>
+			</db>
+		</output> 
+		<output id="Ensembl_Gene">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'Ensembl_Gene'</whereClause>
+			</db>
+		</output> 
+		<output id="Gene Ori">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'Gene Ori'</whereClause>
+			</db>
+		</output> 
+		<output id="siftv63">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'siftv63'</whereClause>
+			</db>
+		</output> 
+		<output id="ljb_pp2">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ljb_pp2'</whereClause>
+			</db>
+		</output> 
+		<output id="omimGene">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'omimGene'</whereClause>
+			</db>
+		</output> 
+		<output id="snp137">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'snp137'</whereClause>
+			</db>
+		</output> 
+		<output id="ljb_mt">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ljb_mt'</whereClause>
+			</db>
+		</output> 
+		<output id="hapmap_3_3">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'hapmap_3_3'</whereClause>
+			</db>
+		</output> 
+		<output id="gwasCatalog">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'gwasCatalog'</whereClause>
+			</db>
+		</output> 
+		<output id="1000gALL_sites_2012_04">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = '1000gALL_sites_2012_04'</whereClause>
+			</db>
+		</output> 
+		<output id="cg69">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'cg69'</whereClause>
+			</db>
+		</output> 
+		<output id="rptMask">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'rptMask'</whereClause>
+			</db>
+		</output> 
+		<output id="genomicSuperDups">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'genomicSuperDups'</whereClause>
+			</db>
+		</output> 
+		<output id="trf">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'trf'</whereClause>
+			</db>
+		</output> 
+		<output id="prosite_domains">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'prosite_domains'</whereClause>
+			</db>
+		</output> 
+		<output id="nonB">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'nonB'</whereClause>
+			</db>
+		</output> 
+		<output id="SomamiR">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'SomamiR'</whereClause>
+			</db>
+		</output> 
+		<output id="lncipedia">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'lncipedia'</whereClause>
+			</db>
+		</output> 
+		<output id="VISTA_enhancer_expr_data">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'VISTA_enhancer_expr_data'</whereClause>
+			</db>
+		</output> 
+		<output id="wgRna">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'wgRna'</whereClause>
+			</db>
+		</output> 
+		<output id="tfbsConsSites">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'tfbsConsSites'</whereClause>
+			</db>
+		</output> 
+		<output id="lincRNA">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'lincRNA'</whereClause>
+			</db>
+		</output> 
+		<output id="HMDD">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'HMDD'</whereClause>
+			</db>
+		</output> 
+		<output id="microPIR_targets">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'microPIR_targets'</whereClause>
+			</db>
+		</output> 
+		<output id="targetScanS">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'targetScanS'</whereClause>
+			</db>
+		</output>  
+	<!-- 	<output id="wgEncodeDukeMapabilityUniqueness35bp">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'wgEncodeDukeMapabilityUniqueness35bp'</whereClause>
+			</db>
+		</output>  -->
+		 <output id="ESEFinder">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ESEFinder'</whereClause>
+			</db>
+		</output> 
+		<output id="VISTA_enhancer">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'VISTA_enhancer'</whereClause>
+			</db>
+		</output> 
+		<output id="alt_splice">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'alt_splice'</whereClause>
+			</db>
+		</output> 
+		<output id="cosmicdbv67">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'cosmicdbv67'</whereClause>
+			</db>
+		</output> 
+		<output id="SomamiR_targets">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'SomamiR_targets'</whereClause>
+			</db>
+		</output> 
+		<output id="ljb26_pp2hvar">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ljb26_pp2hvar'</whereClause>
+			</db>
+		</output> 
+		<output id="ljb26_pp2hdiv">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ljb26_pp2hdiv'</whereClause>
+			</db>
+		</output> 
+		<output id="ljb26_lrt">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ljb26_lrt'</whereClause>
+			</db>
+		</output> 
+		<output id="ljb26_phylop">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ljb26_phylop'</whereClause>
+			</db>
+		</output> 
+		<output id="ljb26_ma">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ljb26_ma'</whereClause>
+			</db>
+		</output> 
+		<output id="ljb26_fathmm">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ljb26_fathmm'</whereClause>
+			</db>
+		</output> 
+		<output id="ljb26_siphy">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ljb26_siphy'</whereClause>
+			</db>
+		</output>
+		<output id="nci60">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'nci60'</whereClause>
+			</db>
+		</output>
+		<output id="ESP6500si_all">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'ESP6500si_all'</whereClause>
+			</db>
+		</output>
+		<output id="cpgIslandExt">
+			<db type="DB_Oracle_ABCC" config="fdiDB1Config.xml">
+			  <tableName>vuonghm.hg19_impacts</tableName>
+			  <inputColumn>chr || ':' || var_start || ':' || var_end || ':' || ref_allele || ':' || var_allele</inputColumn>
+			  <outputColumn>impact_value</outputColumn>
+			  <whereClause>impact_name = 'cpgIslandExt'</whereClause>
+			</db>
+		</output> 
+
+		<output id="Variant OnDeck">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -a " />
+            <weight>1</weight>
+        </output>
+       
+        <!-- write something for encode -->
+       <!--  <output id="Encode">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/duplicate.pl -a " />
+            <weight>1</weight>
+        </output> -->
+	</input>
+
+	<input id="Variant_hg18">
+	    <output id="Variant ID">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/liftover_wrpr.pl " />
+            <weight>1</weight>
+        </output>
+	</input>
+
+	<!--  <input id="Encode">
+		<output id="wgEncodeAwgTfbsUniform">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/smart_wrpr.pl -o '-b  hg19_wgEncodeAwgTfbsUniform.txt' -t intersectBed -g -w -a " />
+            <weight>1</weight>
+        </output> 
+        <output id="wgEncodeDukeMapabilityRegionsExcludable">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/smart_wrpr.pl -o '-b hg19_wgEncodeDukeMapabilityRegionsExcludable.txt' -g -w -t intersectBed -a " />
+            <weight>1</weight>
+        </output>
+        <output id="wgEncodeDukeMapabilityUniqueness35bp">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/smart_wrpr.pl -o '-b hg19_wgEncodeDukeMapabilityUniqueness35bp.txt' -g -w -t intersectBed  -a " />
+            <weight>1</weight>
+        </output>
+        <output id="wgEncodeCrgMapabilityAlign100mer">
+            <api type="API_Self" cmd="perl /mnt/webrepo/fr-s-abcc-avia-l/htdocs/public/scripts.dir/smart_wrpr.pl -o '-b  hg19_wgEncodeCrgMapabilityAlign100mer.txt' -g -w -t intersectBed -a " />
+            <weight>1</weight>
+        </output> 
+	</input> -->
+</fdi>
