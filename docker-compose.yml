@@ -4,31 +4,12 @@ web:
   ports:
     - "8000:8000"
   links:
-    - db
-    - mongo
     - memcached
   volumes:
     - .:/code
   environment:
-    DB_HOST: db
-    DB_NAME: test
-    DB_USER: root
-    DB_PASSWORD: password
     MEMCACHED_HOST: memcached
     MEMCACHED_PORT: 11211
-    MONGO_HOST: mongo
-    MONGO_PORT: 27017
-
-db:
-  hostname: db
-  image: mysql
-  environment:
-    MYSQL_DATABASE: test
-    MYSQL_ROOT_PASSWORD: password
-
-mongo:
-  image: mongo
-  command: mongod --smallfiles --quiet --logpath=/dev/null
 
 memcached:
    hostname: memcached
