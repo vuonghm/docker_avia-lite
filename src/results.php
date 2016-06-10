@@ -33,7 +33,11 @@ td{
 	
 	include_once("xml/navigation.php");
 	echo "<br /><div style=\"clear:left;\">";
-	$id=htmlentities($_GET["id"],ENT_QUOTES);
+	if (isset($_GET['id'])){
+		$id=htmlentities($_GET["id"],ENT_QUOTES);
+	}elseif(isset($_POST['id'])){
+		$id=htmlentities($_POST["id"],ENT_QUOTES);   
+	}
 	$bin=$_SERVER['DOCUMENT_ROOT']."/scripts/";
 	if (!isset($id)){
 		$id="sampledata";//"intviz501fbb09e2c6aia";
@@ -44,7 +48,7 @@ td{
 		Globals::redirect("/apps/site/retrieve_a_request","error","You have entered an invalid id.");
 	}
 	
-	$upload_dir="data";
+	$upload_dir="/code/src/data";
 	$input_file="$upload_dir/$id/$id.annot.txt.html";
 	if (!file_exists ($input_file)){
 		$err_msg="Your results file does not exist on server($input_file)";
